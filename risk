@@ -1,0 +1,54 @@
+System Downtime
+
+Risk:
+The system may experience downtime due to server failures, maintenance issues, or unexpected technical errors. If the website becomes unavailable, users will not be able to access important information or complete actions such as contacting the organisation or booking tickets.
+
+Impact:
+This could lead to frustration for users and may result in lost opportunities for the organisation, as potential customers may leave the website and choose alternative options.
+
+Mitigation:
+The website will be hosted using a reliable hosting provider that offers strong uptime guarantees. Regular system monitoring and automatic backups will also be implemented so that the website can be restored quickly if a failure occurs.
+
+Security Breaches
+
+Risk:
+There is a possibility that attackers may attempt to exploit vulnerabilities in the system to gain unauthorised access or disrupt the website. This could include attacks such as malicious input submissions or attempts to bypass authentication systems.
+
+Impact:
+A successful security breach could compromise system integrity, damage the organisation’s reputation, and potentially expose sensitive information.
+
+Mitigation:
+The system will follow secure development practices, including strong input validation, secure authentication mechanisms, and protection against common web vulnerabilities. Sensitive information will be stored securely, and access to administrative functions will be restricted to authorised users only.
+
+Data Loss
+
+Risk:
+Data stored within the system, such as contact form submissions or booking information, could potentially be lost due to hardware failures, software errors, or accidental deletion.
+
+Impact:
+Losing important data could disrupt operations and reduce trust in the system, as users may expect their requests or bookings to be recorded accurately.
+
+Mitigation:
+To reduce this risk, the system will implement regular automated backups of all important data. Backup copies will be stored securely so that the information can be restored if the system experiences a failure.
+
+Poor System Performance
+
+Risk:
+If the website becomes slow or unresponsive due to inefficient code, large media files, or high user traffic, users may struggle to navigate the website or complete tasks.
+
+Impact:
+Slow performance may negatively affect user experience and could cause visitors to leave the website before interacting with its features.
+
+Mitigation:
+The system will be optimised for performance by reducing unnecessary resources, compressing images, and ensuring efficient coding practices. Regular performance testing will also be carried out to identify and resolve any issues.
+
+Incorrect or Outdated Information
+
+Risk:
+Content displayed on the website may become outdated or incorrect if it is not regularly reviewed and updated.
+
+Impact:
+Outdated information can cause confusion for users and may reduce the credibility and reliability of the organisation.
+
+Mitigation:
+Administrators will be responsible for regularly reviewing and updating website content to ensure that all information remains accurate and relevant.
